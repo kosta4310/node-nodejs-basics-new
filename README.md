@@ -1,3 +1,3 @@
-# node-nodejs-basics-new
+# Node.js basics
 
-hello
+## !!! Please don't submit Pull Requests to this repository !!!

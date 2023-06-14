@@ -1,4 +1,4 @@
-import {mkdir, readdir, copyFile, stat} from 'node:fs/promises';
+import {mkdir, readdir, copyFile} from 'node:fs/promises';
 
 import url from 'node:url';
 import path from 'node:path';

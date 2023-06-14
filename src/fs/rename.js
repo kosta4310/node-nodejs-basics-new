@@ -1,4 +1,4 @@
-import {mkdir, readdir, copyFile, stat, rename as ren} from 'node:fs/promises';
+import {rename as ren} from 'node:fs/promises';
 
 import url from 'node:url';
 import path from 'node:path';
